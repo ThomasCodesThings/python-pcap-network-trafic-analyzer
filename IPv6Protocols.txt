@@ -1,0 +1,10 @@
+0 Hop-by-Hop Options (NOTE: special processing)
+6 TCP
+17 UDP
+43 Routing(Type 0)
+44 Fragment
+50 Encapsulating
+51 Authentication
+58 ICMPv6
+59 No next header
+60 Destination Options

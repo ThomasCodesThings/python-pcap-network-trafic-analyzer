@@ -1,0 +1,35 @@
+0 Echo_Reply 0 Echo Reply
+3 Destination_Unreacheable 0 Net Unreacheable
+3 Destination_Unreacheable 1 Host Unreacheable
+3 Destination_Unreacheable 2 Protocol Unreacheable
+3 Destination_Unreacheable 3 Port Unreacheable
+3 Destination_Unreacheable 4 Fragmentation Needed & DF Set
+3 Destination_Unreacheable 5 Source Route Failed
+3 Destination_Unreacheable 6 Destination Network Unknown
+3 Destination_Unreacheable 7 Destination Host Unknown
+3 Destination_Unreacheable 8 Source Host Isolated
+3 Destination_Unreacheable 9 Network Administratively Prohibited
+3 Destination_Unreacheable 10 Host Administratively Prohibited
+3 Destination_Unreacheable 11 Network Unreacheable for TOS3 
+3 Destination_Unreacheable 12 Host Unreacheable for TOS
+3 Destination_Unreacheable 13 Communication Administratively Prohibited
+4 Source_Quench 0 Source Quench
+5 Redirect 0 Redirect Datagram for the Network
+5 Redirect 1 Redirect Datagram for the Host
+5 Redirect 2 Redirect Datagram for the TOS & Network
+5 Redirect 3 Redirect Datagram for the TOS & Host
+8 Echo 0 Echo REQUEST
+9 Router_Advertisement 0 Router Advertisement
+10 Router_Selection 0 Router Selection
+11 Time_Exceeded 0 Time To Live exceeded in Transit
+11 Time_Exceeded 1 Fragment Reassembly Time Exceeded
+12 Parameter_Problem 0 Pointer indicates the error
+12 Parameter_Problem 1 Missing a Required Option
+12 Parameter_Problem 2 Bad Length
+13 Timestamp 0 Timestamp
+14 Timestamp_Reply 0 Timestamp Reply
+15 Information_Request 0 Information Request
+16 Information_Reply 0 Information Reply
+17 Address_Mask_Request 0 Address Mask Request
+18 Address_Mask_Reply 0 Address Mask Reply
+30 Traceroute 0 Traceroute
